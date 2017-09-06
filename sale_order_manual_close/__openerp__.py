@@ -25,7 +25,13 @@
                      "Ainara Galdona <ainaragaldona@gmail.com>",
                      "Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>",
                      "Ana Juaristi <ajuaristio@gmail.com>"],
+<<<<<<< HEAD
     "depends": ['sale_stock'],
+=======
+    "depends": ['sale',
+                'sale_stock',
+                ],
+>>>>>>> 8ca3531... sale order manual close fixes with security rules
     "category": "Custom Modules",
     "data": [
       'security/so_manual_close_security.xml',
